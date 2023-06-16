@@ -13,5 +13,6 @@ LogsWorkspaceName      = "zol-aks-law"
 enable-privatecluster  = false
 enable-AzurePolicy     = false
 networkpolicy_plugin   = "azure"
+defaultpool-vmsize     = "Standard_D2as_v5"
 
 #/subscriptions/95181e3b-1364-451f-96c3-fb6d57f6dab7/resourceGroups/RG-AKSCluster/providers/Microsoft.ContainerRegistry/registries/zolmswsacr
